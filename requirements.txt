@@ -1,4 +1,5 @@
-pyrogram
+pyrofork>=2.3.69
 pyromod==1.5
 asyncio
 pymongo
+pymongo>=4.6
