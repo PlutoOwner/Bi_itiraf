@@ -5,6 +5,8 @@
 Kullanıcıların açık, gizli veya +18 itiraf gönderebildiği; itirafların admin onayından geçip kanala düştüğü bir Telegram botu.
 [Pyrofork](https://github.com/Mayuri-Chan/pyrofork) ve MongoDB ile çalışır.
 
+[![Geliştirici](https://img.shields.io/badge/Geliştirici-@wlertoxi-2CA5E0?logo=telegram&logoColor=white)](https://t.me/wlertoxi)
+
 ---
 
 ## ✨ Özellikler
@@ -204,6 +206,18 @@ grep -E "WorkingDirectory|ExecStart" /etc/systemd/system/itirafbot.service
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 Bu proje **AGPL-3.0** lisanslıdır. Değiştirilmiş sürümü herkese açık olarak çalıştırıyorsanız kaynak kodunu da paylaşmanız gerekir.
+
+## 👨‍💻 Geliştirici
+
+Bu sürüm, orijinal projenin hataları giderilmiş ve yeni özelliklerle genişletilmiş hâlidir.
+
+- 👤 **Düzenleyen:** [@wlertoxi](https://t.me/wlertoxi)
+  - 🔞 +18 itiraf bölümü (yaş onayı, fotoğraf/video desteği)
+  - 🎨 Premium emoji sistemi
+  - 🐛 Onay/red akışı, iptal, zaman aşımı ve çökme hatalarının giderilmesi
+  - ⚙️ Pyrofork'a geçiş ve sunucu (systemd) kurulumu
+
+Soru, öneri veya hata bildirimi için Telegram üzerinden [@wlertoxi](https://t.me/wlertoxi) ile iletişime geçebilirsiniz.
 
 ## 🙏 Orijinal proje
 
